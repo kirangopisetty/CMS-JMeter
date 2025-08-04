@@ -1,0 +1,9 @@
+varUN,varPWD,varHospitalReadmission,varComment,varPrograms,varFacility,varVisitDate
+John Doe,ThisIsNotAPassword,Yes,Cough & Cold,Medicare,Tokyo CURA Healthcare Center,19/08/2025
+John Doe,ThisIsNotAPassword,No,Fever,Medicaid,Hongkong CURA Healthcare Center,20/08/2025
+John Doe,ThisIsNotAPassword,Yes,Vaccination,None,Seoul CURA Healthcare Center,21/08/2025
+John Doe,ThisIsNotAPassword,No,Marketing,Medicare,Tokyo CURA Healthcare Center,22/08/2025
+John Doe,ThisIsNotAPassword,Yes,Bodypains,Medicaid,Hongkong CURA Healthcare Center,23/08/2025
+John Doe,ThisIsNotAPassword,No,Sugar,None,Seoul CURA Healthcare Center,24/08/2025
+John Doe,ThisIsNotAPassword,Yes,BP,Medicare,Tokyo CURA Healthcare Center,25/08/2025
+John Doe,ThisIsNotAPassword,No,Diabetics,Medicaid,Hongkong CURA Healthcare Center,26/08/2025

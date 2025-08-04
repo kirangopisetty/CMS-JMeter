@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Visit Home Page,483,680,582,3860,339.79,0.000%,7.97056,17.74,1.00,2279.4
+Visit Registration Page,478,648,585,2290,177.90,0.000%,8.25048,207.75,1.14,25785.0
+Visit Practice Page,474,1101,754,3479,571.45,0.000%,8.28686,639.97,1.07,79080.8
+TOTAL,1435,808,582,3860,446.94,0.000%,23.52266,814.97,3.07,35477.7

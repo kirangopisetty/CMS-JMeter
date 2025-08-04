@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Visit Home Page,16,1575,655,2972,913.18,0.000%,1.63349,52.04,0.18,32621.0
+Visit About us,16,751,665,829,61.91,0.000%,2.12823,94.38,0.28,45410.0
+Visit clients,16,898,718,1068,156.10,0.000%,2.13789,172.29,0.25,82521.0
+Visit India AI mission,16,639,626,655,9.92,0.000%,2.25384,27.86,0.27,12659.0
+TOTAL,64,966,626,2972,589.67,0.000%,5.37815,227.43,0.64,43302.8
