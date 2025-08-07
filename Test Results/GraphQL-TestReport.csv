@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1754552763235,764,GraphQL - Continents list,200,,Thread Group 1-1,text,true,,1104,286,1,1,https://countries.trevorblades.com/graphql,753,0,650
+1754552764004,81,GraphQL - Counries list,200,,Thread Group 1-1,text,true,,10917,329,1,1,https://countries.trevorblades.com/graphql,73,0,0
+1754552764086,109,GraphQL - Languages list,200,,Thread Group 1-1,text,true,,21184,340,1,1,https://countries.trevorblades.com/graphql,75,0,0
+1754552764196,121,GraphQL - States list,200,,Thread Group 1-1,text,true,,39447,323,1,1,https://countries.trevorblades.com/graphql,92,0,0
+1754552764318,72,GraphQL - Phone code,200,,Thread Group 1-1,text,true,,9942,313,1,1,https://countries.trevorblades.com/graphql,72,0,0
